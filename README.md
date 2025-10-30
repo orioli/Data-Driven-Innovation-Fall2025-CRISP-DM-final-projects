@@ -13,7 +13,6 @@ By completing this project, you will:
 - Apply all **6 phases** of CRISP-DM.
 - Communicate insights clearly to non-technical stakeholders.
 - Reflect on the **business impact** and ethical considerations of your findings.
-- OPTIONAL notion, lovable, pipeline
 
 ---
 
