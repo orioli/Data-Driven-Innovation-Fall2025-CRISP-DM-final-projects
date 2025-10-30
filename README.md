@@ -39,6 +39,7 @@ Each team submits:
 2. **Notebook / Script** — Analysis in Colab, R Markdown, or Excel.  
 3. **Dashboard or Visualization** — Tableau Public, Looker Studio, or Power BI.  
 4. **McK style ppts 20 - 36 slides** — CRSP-DM presentation to management
+5. Very optionally notion, lovable, pipeline, IA, GANTT
 
 ---
 
