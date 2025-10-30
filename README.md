@@ -39,7 +39,7 @@ Each team submits:
 1. **CRISP-DM Report (6–8 pages)** — Structured around all six phases.  
 2. **Notebook / Script** — Analysis in Colab, R Markdown, or Excel.  
 3. **Dashboard or Visualization** — Tableau Public, Looker Studio, or Power BI.  
-4. **2-Slide Summary Pitch** — “Problem → Insight → Impact.”
+4. **McK style ppts 20 - 36 slides** — CRSP-DM presentation to management
 
 ---
 
@@ -92,7 +92,8 @@ A = 72–80 | B = 64–71 | C = 56–63 | D = 48–55 | F < 48
 ### 💬 TA Notes
 - Reward **clarity and insight**, not algorithmic complexity.  
 - Strong projects show **storytelling, ethical awareness,** and **visual impact**.  
-- Deduct points for missing CRISP-DM phases or unoriginal work.  
+- Deduct points for missing CRISP-DM phases or unoriginal work.
+- templates leftovers, GPT watermarks, cantexplain emaning of a sentence --> zero.
 
 ---
 
