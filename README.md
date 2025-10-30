@@ -14,6 +14,7 @@ By completing this project, you will:
 - Develop and evaluate a simple data model or descriptive analysis.
 - Communicate insights clearly to non-technical stakeholders.
 - Reflect on the **business impact** and ethical considerations of your findings.
+- OPTIONAL notion, lovable, pipeline
 
 ---
 
