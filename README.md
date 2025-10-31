@@ -30,6 +30,8 @@ By completing this project, you will:
 | 8 | **Bike Sharing Demand** | [https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset](https://www.kaggle.com/datasets/lakshmi25npathi/bike-sharing-dataset) | How can cities optimize bike availability? |
 
 ---
+ALSO this ok as project: https://drive.google.com/file/d/1VIKH6CfmMuBsupfD8vAhb6-ye20TMdpf/view
+
 
 ## 🧾 Deliverables
 
